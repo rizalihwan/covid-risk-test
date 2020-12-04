@@ -1,4 +1,3 @@
-maaf kan jika web ini banyak BUG karena dibuat dengan sistem kebut dan terburu"
-Dan maafkan juga kalau desain nya jelek karena masih memakai css murni
-dan tidak sama sekali menggunakan template.
-~Thank's~
+sorry if this website has a lot of BUG because it is made with a fast and rushed system"
+And also forgive if the design is bad because it still uses pure css
+and don't use templates at all.
